@@ -1,1 +1,1 @@
-init for scc.
+Init for ICC ns3 code.
